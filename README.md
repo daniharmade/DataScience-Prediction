@@ -26,7 +26,7 @@ Model yang digunakan dalam eksperimen ini:
 | 5  | Juanda               | Erliandika         |
 | 6  | Rifka Anrahvi        | Stevani            |
 | 7  | Dina Pani            | Rifsya Aulia       |
-| 8  | Irma Fitriani        | Rahmadevi          |
+| 8  | Irma Fitriani        | Rahma Devi         |
 | 9  | Eka Tri Yulisara     | Naila Husna        |
 |10  | Fatimah Azzahra      | M. Rofiq Pohan     |
 |11  | Intan Adha           | Rahma Alya         |

@@ -17,7 +17,7 @@ Model yang digunakan dalam eksperimen ini:
 
 ## Anggota Kelompok
 
-| No | Nama 1               | Nama 2             |
+| Kelompok | Nama 1               | Nama 2             |
 |----|----------------------|--------------------|
 | 1  | Agil Irman           | Nur Futri          |
 | 2  | Rahmad Afrianto      | Ahmed Aqiel        |

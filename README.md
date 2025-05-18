@@ -17,20 +17,20 @@ Model yang digunakan dalam eksperimen ini:
 
 ## Anggota Kelompok
 
-| <div align="center">Kelompok</div> | Nama 1               | Nama 2             |
+| <div align="center">Kelompok</div> | Anggota 1               | Anggota 2             |
 |:----------------------------------:|----------------------|--------------------|
-| <div align="center">1</div>        | Agil Irman           | Nur Futri          |
-| <div align="center">2</div>        | Rahmad Afrianto      | Ahmed Aqiel        |
+| <div align="center">1</div>        | Agil Irman Fadri          | Nur Futri Ayu Jelita          |
+| <div align="center">2</div>        | Rahmad Afriyanto      | Ahmeid Aqeil        |
 | <div align="center">3</div>        | Dani Harmade         | Afif Fatin         |
-| <div align="center">4</div>        | M. Zaki              | Amelia Ramadhani   |
-| <div align="center">5</div>        | Juanda               | Erliandika         |
+| <div align="center">4</div>        | M. Zacky              | Amelia Rahmadani   |
+| <div align="center">5</div>        | Juanda Alra Baye               | Erliandika Syahputra         |
 | <div align="center">6</div>        | Rifka Anrahvi        | Stevani            |
-| <div align="center">7</div>        | Dina Pani            | Rifsya Aulia       |
+| <div align="center">7</div>        | Dina Pani Safira           | Rifsya Aulia       |
 | <div align="center">8</div>        | Irma Fitriani        | Rahma Devi         |
-| <div align="center">9</div>        | Eka Tri Yulisara     | Naila Husna        |
-| <div align="center">10</div>       | Fatimah Azzahra      | M. Rofiq Pohan     |
-| <div align="center">11</div>       | Intan Adha           | Rahma Alya         |
-| <div align="center">12</div>       | Ikhwan               | Kia Kurniawan      |
+| <div align="center">9</div>        | Eka Tri Yulisara     | Nayla Husna Ryanda       |
+| <div align="center">10</div>       | Fatimah Azzahra      | Muhammad Rafiq Pohan      |
+| <div align="center">11</div>       | Intan Adha Maharani           | Rahma Aliya         |
+| <div align="center">12</div>       | Ikhwan Ash-shiddiqi                | Kia Kurniawan      |
 
 ## Informasi Akademik
 - **Universitas**: Universitas Islam Negeri Sultan Syarif Kasim Riau  
